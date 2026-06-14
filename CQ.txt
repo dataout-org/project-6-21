@@ -1,0 +1,10 @@
+1. How many monitoring records exist in total, and what is their distribution across years?
+2. For each region, how many cases were recorded? Which regions have the most incidents?
+3. What types of defendants (individual, official, legal_entity) are present, and how many cases involve each type?
+4. How many records are linked to defendants, and how many lack defendant information?
+5. Which admin articles were linked to records the most, and how are they distributed across years?
+6. What types of penalties were imposed (fine, detention, warning, expulsion), and what is the distribution by years?
+7. How many cases involved movies and TV series as trigger objects?
+8. How many records have different source types?
+9. Are there any monitoring records without such essential data as article, year, region?
+10. How many defendants appear in more than one record?
