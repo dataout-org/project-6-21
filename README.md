@@ -13,7 +13,7 @@
 9. **Licence:** [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
 10. **Contact:** [greyrainbow@dataout.org](mailto:greyrainbow@dataout.org)
 11. **This documentation was updated on:** 10.09.2026
-12. **Cite as:**
+12. **Cite as:** Dataout Foundation. (2026). Project 6.21: Monitoring Administrative Persecution Targeting LGBTQIA+ Expression in Russia (Version 1.0.0) \[Dataset\]. Zenodo. [https://doi.org/10.5281/zenodo.22693416](https://doi.org/10.5281/zenodo.22693416)
 
 ### 2. Motivation
 
